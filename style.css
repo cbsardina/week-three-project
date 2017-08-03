@@ -32,7 +32,8 @@ body{
   background-color: green;
   display: flex;
 }
-span {
+
+span{
   margin: 1em auto;
   font-size: 2rem;
   font-weight: 600;
