@@ -1,0 +1,37 @@
+body{
+    font-family: 'Noto Serif', serif;
+    line-height: 1.8;
+    margin: 0;
+    background-color: red;
+    color: #fff;
+}
+.calculator {
+  width: 28rem;
+  background-color: #fff;
+  margin: 5rem auto;
+}
+.row {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+}
+.col-75 {
+  padding: 1rem;
+  width: 27rem;
+  height: 5rem;
+  margin: .5px;
+  background-color: green;
+  /*border: .5 solid #fff;*/
+}
+.col-25 {
+  padding: 1rem;
+  width: 7rem;
+  height: 5rem;
+  margin: .5px;
+  background-color: green;
+  /*border: .5px solid #fff;*/
+}
+span {
+
+}
