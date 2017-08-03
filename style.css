@@ -22,7 +22,7 @@ body{
   height: 5rem;
   margin: .5px;
   background-color: green;
-  /*border: .5 solid #fff;*/
+  display: flex;
 }
 .col-25 {
   padding: 1rem;
@@ -30,8 +30,11 @@ body{
   height: 5rem;
   margin: .5px;
   background-color: green;
-  /*border: .5px solid #fff;*/
+  display: flex;
 }
 span {
-
+  margin: 1em auto;
+  font-size: 2rem;
+  font-weight: 600;
+  align-self: center;
 }
